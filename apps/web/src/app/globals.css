@@ -81,19 +81,23 @@
     }
     
     .bg-hue2{
-      @apply bg-[#424549]
+      @apply bg-[#2b2d31]
     }
 
     .bg-hue3{
-      @apply bg-[#36393e]
+      @apply bg-[#313338]
     }
-    
+  
     .bg-hue4{
       @apply bg-[#282b30]
     }
 
     .bg-hue5{
       @apply bg-[#1e1f22]
+    }
+
+    .bg-profile {
+      @apply bg-[#232428]
     }
 
     .bg-servers {

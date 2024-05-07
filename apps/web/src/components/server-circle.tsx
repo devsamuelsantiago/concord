@@ -10,7 +10,7 @@ export default function ServerCircle({
   return (
     <div
       className={
-        "flex justify-center items-center rounded-full w-12 h-12 hover:cursor-pointer active:scale-110 transition-all duration-500 " +
+        "flex justify-center items-center rounded-full w-12 h-12 hover:cursor-pointer hover:scale-110 active:scale-125 transition-all duration-500 " +
         bgColor
       }
     >
